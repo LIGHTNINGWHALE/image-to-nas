@@ -1,0 +1,15 @@
+numpy
+scipy
+matplotlib
+Pillow
+opencv-python-headless
+scikit-image
+ortools
+shapely
+torch
+torchvision
+yacs
+tqdm
+easydict
+python-json-logger
+PyYAML

@@ -1,0 +1,20 @@
+# Competition inputs and generated mesh files
+/jpeg images/
+/Example .nas Format/
+/submission_nas/
+*.jpg
+*.jpeg
+*.png
+*.nas
+
+# Local outputs and Python caches
+/debug_output/
+/benchmark_output/
+/.bundle_work/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.env
+.env.*
