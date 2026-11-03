@@ -1,9 +1,10 @@
-## NIO Student Hackathon
+# Image to NAS
 
-This repository contains our submission to the NIO Student Hackathon held in April 2026. The competition has ended.
+Convert 2D JPEG images of finite-element meshes into Nastran `.nas` files.
 
-This is the complete code for generating. nas files submitted by our group.
-When it is run reads the images in `jpeg images/` and writes the generated `.nas` files to `submission_nas/`.
+This repository contains our submission to the NIO Student Hackathon held in April 2026. The competition has ended. See the [official competition repository](https://github.com/jay-flynn-o/University-Data-Challenge) for the competition brief and data.
+
+The code reads the images in `jpeg images/` and writes the generated `.nas` files to `submission_nas/`.
 
 ## Input Images
 
