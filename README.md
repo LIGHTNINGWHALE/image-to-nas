@@ -1,5 +1,7 @@
 ## NIO Student Hackathon
 
+This repository contains our submission to the NIO Student Hackathon held in April 2026. The competition has ended.
+
 This is the complete code for generating. nas files submitted by our group.
 When it is run reads the images in `jpeg images/` and writes the generated `.nas` files to `submission_nas/`.
 
