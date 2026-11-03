@@ -3,6 +3,14 @@
 This is the complete code for generating. nas files submitted by our group.
 When it is run reads the images in `jpeg images/` and writes the generated `.nas` files to `submission_nas/`.
 
+## Input Images
+
+Download the competition images from the [official `jpeg images` directory](https://github.com/jay-flynn-o/University-Data-Challenge/tree/main/jpeg%20images) and place them in `jpeg images/` at the root of this repository before running the code.
+
+For `--benchmark-examples`, download the [official example image/NAS pairs](https://github.com/jay-flynn-o/University-Data-Challenge/tree/main/Example%20.nas%20Format) and place them in `Example .nas Format/`.
+
+The competition data is provided by NIO solely for competition use and remains subject to the [official Terms and Conditions](https://nio.jp.feishu.cn/docx/D1Q0dlw3KoOpoKxGRuQjgi53puf).
+
 
 ## Team
 #@team LZZ, WXY, JZY 
